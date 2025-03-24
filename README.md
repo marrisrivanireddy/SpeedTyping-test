@@ -30,7 +30,7 @@ The Typing Speed Test is a simple command-line Python game that challenges users
 6. **Replay Option:** The user can choose to play again or exit the game.
 
 ## **Screenshot**
-![Typing Speed Test](sspath/image.png)
+![Typing Speed Test](https://github.com/marrisrivanireddy/SpeedTyping-test/blob/main/Screenshot%202025-03-24%20232019.png)
 
 ## **Future Enhancements**
 - Add a difficulty level with different word lengths.
